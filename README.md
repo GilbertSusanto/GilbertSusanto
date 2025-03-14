@@ -1,7 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Gilbert! <br/><a href="https://github.com/GilbertSusanto">Programmer</a>, <a >Data Science</a>, <a >MachineLearning</a>,<a href ="https://www.instagram.com/fishshoto/" >Photographer</a>, <a href="https://www.youtube.com/@FishShoto">Videographer</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - 
+- <b>Python</b>
+  - 
+
+<h2>📺 YouTube Videos</h2>
+-[Moving out to China(Beijing, 北京), Study Abroad](https://youtu.be/4eSI7oJyBgQ?si=_DulQwvy9dicm-yI)
+<h2> 🤳 Connect with me:</h2>
+
+[youtube]: https://www.youtube.com/@FishShoto
+[instagram]: https://www.instagram.com/fishshoto/
+[Pexels]: https://www.pexels.com/@fishshoto-1077807092/
 
 <!--
-**GilbertSusanto/GilbertSusanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
