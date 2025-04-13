@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gilbert! <br/><a href="https://github.com/GilbertSusanto">Programmer</a>, <a >Data Science</a>, <a >MachineLearning</a>,<a href ="https://www.instagram.com/fishshoto/" >Photographer</a>, <a href="https://www.youtube.com/@FishShoto">Videographer</a></h1>
+<h1><a href="https://www.linkedin.com/in/gilbert-susanto/">Hi, I'm Gilbert! </a><br/><a href="https://github.com/GilbertSusanto">Programmer</a>, <a >Data Science</a>, <a >MachineLearning</a>,<a href ="https://www.instagram.com/fishshoto/" >Photographer</a>, <a href="https://www.youtube.com/@FishShoto">Videographer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
