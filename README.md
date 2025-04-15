@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>NLP Projects</b>
-  - Analyze reviews and give recommendations()
+  - Analyze reviews and give recommendations(https://github.com/GilbertSusanto/NLP---Review)
 - <b>Data Science Projects</b>
   - Data Science project(Using Models, Logisitic Regression, SVM, etc)(https://github.com/GilbertSusanto/Data-Science)
 
