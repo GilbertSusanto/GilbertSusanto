@@ -14,10 +14,7 @@
 -Pexels: (https://www.pexels.com/@fishshoto-1077807092/)
 
 <h2> 🤳 Connect with me:</h2>
-[youtube]: https://www.youtube.com/@FishShoto 
-
-[instagram]: https://www.instagram.com/fishshoto/
-
-[Pexels]: https://www.pexels.com/@fishshoto-1077807092/
-
-[LinkedIN]: https://www.linkedin.com/in/gilbert-susanto/
+<b>>[youtube]: https://www.youtube.com/@FishShoto </b>
+<b>[instagram]: https://www.instagram.com/fishshoto/</b>
+<b>[Pexels]: https://www.pexels.com/@fishshoto-1077807092/</b>
+<b>[LinkedIN]: https://www.linkedin.com/in/gilbert-susanto/</b>
