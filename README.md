@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice</b>
   - 
 - <b>Python</b>
-  - 
+  - Data Science project(Using Models, Logisitic Regression, SVM, etc)(https://github.com/GilbertSusanto/Data-Science)
 
 <h2>📺 YouTube Videos</h2>
 -[Moving out to China(Beijing, 北京), Study Abroad](https://youtu.be/4eSI7oJyBgQ?si=_DulQwvy9dicm-yI)
