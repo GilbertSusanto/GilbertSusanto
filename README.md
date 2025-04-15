@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice</b>
-  - 
-- <b>Python</b>
+- <b>NLP Projects</b>
+  - Analyze reviews and give recommendations()
+- <b>Data Science Projects</b>
   - Data Science project(Using Models, Logisitic Regression, SVM, etc)(https://github.com/GilbertSusanto/Data-Science)
 
 <h2>📺 YouTube Videos</h2>
