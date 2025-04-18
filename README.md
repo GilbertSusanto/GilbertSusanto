@@ -6,7 +6,7 @@
   - Analyze reviews and give recommendations(https://github.com/GilbertSusanto/NLP---Review)
 - <b>Data Science Projects</b>
   - Data Science project(Using Models, Logisitic Regression, SVM, etc)(https://github.com/GilbertSusanto/Data-Science)
-- <b>Websiet(frontend)</b>
+- <b>Website(frontend)</b>
   - Chindo-quiz(https://chindo-quiz.netlify.app)
 
 <h2>📺 YouTube Videos</h2>
