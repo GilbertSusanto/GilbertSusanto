@@ -6,6 +6,8 @@
   - Analyze reviews and give recommendations(https://github.com/GilbertSusanto/NLP---Review)
 - <b>Data Science Projects</b>
   - Data Science project(Using Models, Logisitic Regression, SVM, etc)(https://github.com/GilbertSusanto/Data-Science)
+- <b>Websiet(frontend)</b>
+  - Chindo-quiz(https://chindo-quiz.netlify.app)
 
 <h2>📺 YouTube Videos</h2>
 -[Moving out to China(Beijing, 北京), Study Abroad](https://youtu.be/4eSI7oJyBgQ?si=_DulQwvy9dicm-yI)
