@@ -11,9 +11,6 @@
 - <b>3D design</b>
   - 3D pop cat pyramid(https://github.com/GilbertSusanto/POP-3D-Pyramid)
 
-<h2>📺 YouTube Videos</h2>
--[Moving out to China(Beijing, 北京), Study Abroad](https://youtu.be/4eSI7oJyBgQ?si=_DulQwvy9dicm-yI)
-
 <h2>Photography</h2>
 -Pexels: (https://www.pexels.com/@fishshoto-1077807092/)
 
