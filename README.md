@@ -8,6 +8,8 @@
   - Data Science project(Using Models, Logisitic Regression, SVM, etc)(https://github.com/GilbertSusanto/Data-Science)
 - <b>Website(frontend)</b>
   - Chindo-quiz(https://chindo-quiz.netlify.app)
+- <b>3D design</b>
+  - 3D pop cat pyramid(https://github.com/GilbertSusanto/POP-3D-Pyramid)
 
 <h2>📺 YouTube Videos</h2>
 -[Moving out to China(Beijing, 北京), Study Abroad](https://youtu.be/4eSI7oJyBgQ?si=_DulQwvy9dicm-yI)
